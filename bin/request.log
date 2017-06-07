@@ -1,0 +1,135 @@
+=2017-06-06 15:14:15,261 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-06 15:14:15,646 [main,385 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-06 15:14:49,471 [Thread-2,34210] DEBUG  - VP: 771.676 - 875.504. Tamanho = 103.828
+=2017-06-06 15:14:50,510 [Thread-1,35249] DEBUG  - Intervalo (771.676-875.504) processado pelo nó 5
+=2017-06-06 15:14:50,513 [Thread-1,35252] DEBUG  -  processing interval( 171145 - 226404) as Virtual Local Task
+=2017-06-06 15:14:50,514 [Thread-2,35253] DEBUG  - VP: 171.145 - 226.404. Tamanho = 55.259
+=2017-06-06 15:14:50,684 [Thread-1,35423] DEBUG  - Intervalo (171.145-226.404) processado pelo nó 5
+=2017-06-06 15:21:18,643 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-06 15:21:18,946 [main,303 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-06 15:23:07,193 [Thread-2,108550] DEBUG  - VP: 171.145 - 226.404. Tamanho = 55.259
+=2017-06-06 15:23:07,741 [Thread-1,109098] DEBUG  - Intervalo (171.145-226.404) processado pelo nó 2
+=2017-06-06 15:23:37,316 [Thread-4,138673] DEBUG  - VP: 171.145 - 226.404. Tamanho = 55.259
+=2017-06-06 15:23:37,469 [Thread-3,138826] DEBUG  - Intervalo (171.145-226.404) processado pelo nó 2
+=2017-06-06 15:23:37,470 [Thread-3,138827] DEBUG  -  processing interval( 875504 - 986791) as Virtual Local Task
+=2017-06-06 15:23:37,470 [Thread-4,138827] DEBUG  - VP: 875.504 - 986.791. Tamanho = 111.287
+=2017-06-06 15:23:37,736 [Thread-3,139093] DEBUG  - Intervalo (875.504-986.791) processado pelo nó 2
+=2017-06-06 15:23:40,973 [Thread-6,142330] DEBUG  - VP: 171.145 - 226.404. Tamanho = 55.259
+=2017-06-06 15:23:41,495 [Thread-5,142852] DEBUG  - Intervalo (171.145-226.404) processado pelo nó 2
+=2017-06-06 15:23:51,271 [Thread-8,152628] DEBUG  - VP: 87.433 - 171.145. Tamanho = 83.712
+=2017-06-06 15:23:51,372 [Thread-7,152729] DEBUG  - Intervalo (87.433-171.145) processado pelo nó 1
+=2017-06-06 15:23:51,376 [Thread-7,152733] DEBUG  -  processing interval( 226404 - 362699) as Virtual Local Task
+=2017-06-06 15:23:51,376 [Thread-8,152733] DEBUG  - VP: 226.404 - 362.699. Tamanho = 136.295
+=2017-06-06 15:23:51,454 [Thread-7,152811] DEBUG  - Intervalo (226.404-362.699) processado pelo nó 1
+=2017-06-06 15:23:51,458 [Thread-7,152815] DEBUG  -  processing interval( 428358 - 541013) as Virtual Local Task
+=2017-06-06 15:23:51,458 [Thread-8,152815] DEBUG  - VP: 428.358 - 541.013. Tamanho = 112.655
+=2017-06-06 15:23:51,567 [Thread-7,152924] DEBUG  - Intervalo (428.358-541.013) processado pelo nó 1
+=2017-06-06 15:28:55,804 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-06 15:28:56,278 [main,474 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-06 15:29:14,897 [Thread-2,19093] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 15:29:15,689 [Thread-1,19885] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 15:29:17,966 [Thread-4,22162] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 15:29:18,026 [Thread-3,22222] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 15:29:18,027 [Thread-3,22223] DEBUG  -  processing interval( 814966 - 1049503) as Virtual Local Task
+=2017-06-06 15:29:18,027 [Thread-4,22223] DEBUG  - VP: 814.966 - 1.049.503. Tamanho = 234.537
+=2017-06-06 15:29:18,079 [Thread-3,22275] DEBUG  - Intervalo (814.966-1.049.503) processado pelo nó 2
+=2017-06-06 15:29:20,523 [Thread-6,24719] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 15:29:20,623 [Thread-5,24819] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 15:29:20,624 [Thread-5,24820] DEBUG  -  processing interval( 814966 - 1049503) as Virtual Local Task
+=2017-06-06 15:29:20,625 [Thread-6,24821] DEBUG  - VP: 814.966 - 1.049.503. Tamanho = 234.537
+=2017-06-06 15:29:20,689 [Thread-5,24885] DEBUG  - Intervalo (814.966-1.049.503) processado pelo nó 2
+=2017-06-06 15:54:32,358 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-06 15:54:33,188 [main,830 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-06 15:54:39,460 [Thread-2,7102] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 15:54:40,042 [Thread-1,7684] ERROR  - Exceção de Tarefa Local de Consulta: RemoteException occurred in server thread; nested exception is: 
+	java.rmi.UnmarshalException: unrecognized method hash: method not supported by remote object
+=2017-06-06 15:55:54,308 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-06 15:55:54,652 [main,344 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-06 15:56:00,756 [Thread-2,6448] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 15:56:01,485 [Thread-1,7177] ERROR  - Exceção de Tarefa Local de Consulta: RemoteException occurred in server thread; nested exception is: 
+	java.rmi.UnmarshalException: unrecognized method hash: method not supported by remote object
+=2017-06-06 16:58:53,807 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-06 16:58:54,127 [main,320 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-06 16:58:59,596 [Thread-2,5789] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 16:59:00,109 [Thread-1,6302] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 16:59:00,112 [Thread-1,6305] DEBUG  -  processing interval( 814966 - 1049503) as Virtual Local Task
+=2017-06-06 16:59:00,113 [Thread-2,6306] DEBUG  - VP: 814.966 - 1.049.503. Tamanho = 234.537
+=2017-06-06 16:59:00,262 [Thread-1,6455] DEBUG  - Intervalo (814.966-1.049.503) processado pelo nó 2
+=2017-06-06 16:59:23,820 [Thread-4,30013] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 16:59:23,873 [Thread-3,30066] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 16:59:23,875 [Thread-3,30068] DEBUG  -  processing interval( 814966 - 1049503) as Virtual Local Task
+=2017-06-06 16:59:23,875 [Thread-4,30068] DEBUG  - VP: 814.966 - 1.049.503. Tamanho = 234.537
+=2017-06-06 16:59:23,921 [Thread-3,30114] DEBUG  - Intervalo (814.966-1.049.503) processado pelo nó 2
+=2017-06-06 16:59:23,922 [Thread-3,30115] DEBUG  -  processing interval( 1049503 - 1500001) as Virtual Local Task
+=2017-06-06 16:59:23,922 [Thread-4,30115] DEBUG  - VP: 1.049.503 - 1.500.001. Tamanho = 450.498
+=2017-06-06 16:59:23,968 [Thread-3,30161] DEBUG  - Intervalo (1.049.503-1.500.001) processado pelo nó 2
+=2017-06-06 16:59:26,210 [Thread-6,32403] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 16:59:26,290 [Thread-5,32483] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 16:59:26,293 [Thread-5,32486] DEBUG  -  processing interval( 814966 - 1049503) as Virtual Local Task
+=2017-06-06 16:59:26,293 [Thread-6,32486] DEBUG  - VP: 814.966 - 1.049.503. Tamanho = 234.537
+=2017-06-06 16:59:26,331 [Thread-5,32524] DEBUG  - Intervalo (814.966-1.049.503) processado pelo nó 2
+=2017-06-06 16:59:28,616 [Thread-8,34809] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 16:59:28,666 [Thread-7,34859] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 16:59:28,674 [Thread-7,34867] DEBUG  -  processing interval( 589462 - 814966) as Virtual Local Task
+=2017-06-06 16:59:28,675 [Thread-8,34868] DEBUG  - VP: 589.462 - 814.966. Tamanho = 225.504
+=2017-06-06 16:59:28,767 [Thread-7,34960] DEBUG  - Intervalo (589.462-814.966) processado pelo nó 2
+=2017-06-06 16:59:28,788 [Thread-7,34981] DEBUG  -  processing interval( 1049503 - 1500001) as Virtual Local Task
+=2017-06-06 16:59:28,793 [Thread-8,34986] DEBUG  - VP: 1.049.503 - 1.500.001. Tamanho = 450.498
+=2017-06-06 16:59:28,888 [Thread-7,35081] DEBUG  - Intervalo (1.049.503-1.500.001) processado pelo nó 2
+=2017-06-06 16:59:31,489 [Thread-10,37682] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 16:59:31,564 [Thread-9,37757] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 16:59:31,566 [Thread-9,37759] DEBUG  -  processing interval( 589462 - 814966) as Virtual Local Task
+=2017-06-06 16:59:31,570 [Thread-10,37763] DEBUG  - VP: 589.462 - 814.966. Tamanho = 225.504
+=2017-06-06 16:59:31,625 [Thread-9,37818] DEBUG  - Intervalo (589.462-814.966) processado pelo nó 2
+=2017-06-06 16:59:31,628 [Thread-9,37821] DEBUG  -  processing interval( 1049503 - 1500001) as Virtual Local Task
+=2017-06-06 16:59:31,629 [Thread-10,37822] DEBUG  - VP: 1.049.503 - 1.500.001. Tamanho = 450.498
+=2017-06-06 16:59:31,683 [Thread-9,37876] DEBUG  - Intervalo (1.049.503-1.500.001) processado pelo nó 2
+=2017-06-06 16:59:59,735 [Thread-12,65928] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 16:59:59,804 [Thread-11,65997] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 16:59:59,808 [Thread-11,66001] DEBUG  -  processing interval( 814966 - 1049503) as Virtual Local Task
+=2017-06-06 16:59:59,809 [Thread-12,66002] DEBUG  - VP: 814.966 - 1.049.503. Tamanho = 234.537
+=2017-06-06 16:59:59,880 [Thread-11,66073] DEBUG  - Intervalo (814.966-1.049.503) processado pelo nó 2
+=2017-06-06 17:00:02,236 [Thread-14,68429] DEBUG  - VP: 410.252 - 589.462. Tamanho = 179.210
+=2017-06-06 17:00:02,300 [Thread-13,68493] DEBUG  - Intervalo (410.252-589.462) processado pelo nó 2
+=2017-06-06 17:00:02,307 [Thread-13,68500] DEBUG  -  processing interval( 589462 - 814966) as Virtual Local Task
+=2017-06-06 17:00:02,307 [Thread-14,68500] DEBUG  - VP: 589.462 - 814.966. Tamanho = 225.504
+=2017-06-06 17:00:02,351 [Thread-13,68544] DEBUG  - Intervalo (589.462-814.966) processado pelo nó 2
+=2017-06-07 00:38:47,510 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-07 00:38:48,019 [main,509 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-07 00:38:55,596 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-07 00:38:55,848 [main,252 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.004 [rmi://127.0.0.1:3004/NodeQueryProcessor]
+=2017-06-07 00:39:44,415 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-07 00:39:44,796 [main,381 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.002 [rmi://localhost:3002/NodeQueryProcessor]
+=2017-06-07 00:39:45,909 [main,0   ] INFO   - DBConnection Pool created!
+=2017-06-07 00:39:46,160 [main,251 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.001 [rmi://127.0.0.1:3001/NodeQueryProcessor]
+=2017-06-07 00:39:48,551 [main,1   ] INFO   - DBConnection Pool created!
+=2017-06-07 00:39:48,875 [main,325 ] INFO   - Processador de Consulta do Nó está sendo executado na porta 3.004 [rmi://127.0.0.1:3004/NodeQueryProcessor]
+=2017-06-07 00:39:56,300 [RMI TCP Connection(4)-192.168.0.103,0   ] DEBUG  - Tarefa global de consulta: Iniciar as tarefas locais de consulta.
+=2017-06-07 00:39:56,312 [RMI TCP Connection(4)-192.168.0.103,12  ] DEBUG  - Tarefa: Criando tarefa local de consulta 0 para processar o intervalo (1 - 250.001).
+=2017-06-07 00:39:56,360 [RMI TCP Connection(4)-192.168.0.103,60  ] DEBUG  - Tarefa: Criando tarefa local de consulta 1 para processar o intervalo (250.001 - 500.001).
+=2017-06-07 00:39:56,400 [RMI TCP Connection(4)-192.168.0.103,100 ] DEBUG  - Tarefa: Criando tarefa local de consulta 2 para processar o intervalo (500.001 - 750.001).
+=2017-06-07 00:39:56,441 [RMI TCP Connection(4)-192.168.0.103,141 ] DEBUG  - Tarefa global de consulta: Esperando por processamento de intervalos
+=2017-06-07 00:39:56,500 [Thread-2,12085] DEBUG  - VP: 1 - 250.001. Tamanho = 250.000
+=2017-06-07 00:39:56,500 [Thread-2,7950] DEBUG  - VP: 500.001 - 750.001. Tamanho = 250.000
+=2017-06-07 00:39:56,502 [Thread-2,10593] DEBUG  - VP: 250.001 - 500.001. Tamanho = 250.000
+=2017-06-07 00:39:58,147 [RMI TCP Connection(7)-192.168.0.103,1847] DEBUG  - Intervalo sob responsabilidade do nó 2 está terminado!
+=2017-06-07 00:39:58,288 [Thread-1,9738] DEBUG  - Intervalo (500.001-750.001) processado pelo nó 2
+=2017-06-07 00:39:58,290 [Thread-1,9740] DEBUG  -  processing interval( 750001 - 1000001) as Virtual Local Task
+=2017-06-07 00:39:58,294 [Thread-2,9744] DEBUG  - VP: 750.001 - 1.000.001. Tamanho = 250.000
+=2017-06-07 00:39:58,679 [RMI TCP Connection(7)-192.168.0.103,2379] DEBUG  - Intervalo sob responsabilidade do nó 2 está terminado!
+=2017-06-07 00:39:58,690 [Thread-1,10140] DEBUG  - Intervalo (750.001-1.000.001) processado pelo nó 2
+=2017-06-07 00:39:58,691 [Thread-1,10141] DEBUG  -  processing interval( 1000001 - 1250001) as Virtual Local Task
+=2017-06-07 00:39:58,692 [Thread-2,10142] DEBUG  - VP: 1.000.001 - 1.250.001. Tamanho = 250.000
+=2017-06-07 00:39:58,752 [RMI TCP Connection(7)-192.168.0.103,2452] DEBUG  - Intervalo sob responsabilidade do nó 2 está terminado!
+=2017-06-07 00:39:58,755 [Thread-1,10205] DEBUG  - Intervalo (1.000.001-1.250.001) processado pelo nó 2
+=2017-06-07 00:39:58,756 [Thread-1,10206] DEBUG  -  processing interval( 1250001 - 1500001) as Virtual Local Task
+=2017-06-07 00:39:58,756 [Thread-2,10206] DEBUG  - VP: 1.250.001 - 1.500.001. Tamanho = 250.000
+=2017-06-07 00:39:58,817 [RMI TCP Connection(7)-192.168.0.103,2517] DEBUG  - Intervalo sob responsabilidade do nó 2 está terminado!
+=2017-06-07 00:39:58,818 [Thread-1,10268] DEBUG  - Intervalo (1.250.001-1.500.001) processado pelo nó 2
+=2017-06-07 00:39:58,855 [RMI TCP Connection(6)-192.168.0.103,2555] DEBUG  - Intervalo sob responsabilidade do nó 1 está terminado!
+=2017-06-07 00:39:58,856 [Thread-1,12947] DEBUG  - Intervalo (250.001-500.001) processado pelo nó 1
+=2017-06-07 00:39:59,055 [RMI TCP Connection(5)-192.168.0.103,2755] DEBUG  - Intervalo sob responsabilidade do nó 0 está terminado!
+=2017-06-07 00:39:59,056 [Thread-1,14641] DEBUG  - Intervalo (1-250.001) processado pelo nó 0
+=2017-06-07 00:39:59,059 [RMI TCP Connection(4)-192.168.0.103,2759] DEBUG  - Tarefa global de consulta: Esperando por fim dos LQTs.
+=2017-06-07 00:39:59,257 [RMI TCP Connection(4)-192.168.0.103,2957] DEBUG  - Tarefa: Obtendo resultado final.
+=2017-06-07 00:39:59,258 [RMI TCP Connection(4)-192.168.0.103,2958] DEBUG  - Tarefa Global de Consulta: Terminada.
